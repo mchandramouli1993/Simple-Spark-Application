@@ -1,0 +1,4 @@
+1) Right Click on the Project
+2) Go to Properties-> Scala Compiler-> a. Click the "Use Project Settings"
+					b. Under drop down of Scala Installation-> select "Fixed Scala Installation: 2.11.11(built-in)
+					c. Click "Apply" and "Apply and Close"
